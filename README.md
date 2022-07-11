@@ -9,7 +9,7 @@
 */
 @import url("https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css");
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
-@import url('https://fonts.googleapis.com/css2?family=Oswald');
+@import url('(https://fonts.google.com/specimen/Open+Sans)');
 :root {
 --background-image: url('https://i.imgur.com/sQlhrAF.jpg');
 --background-image-blur: 5px;
@@ -37,7 +37,7 @@
 --scrollbar-colour: #39313FA7;
 --link-colour: #FCFB97FF;
 --show-gift-gif-buttons: no-repeat;
---font: 'Arial';
+--font: 'Sans';
 --update-notice-1: none;
 --rs-small-spacing: 2px;
 --rs-medium-spacing: 3px;
